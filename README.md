@@ -27,30 +27,6 @@
 - **AWS** - mongodb is hosted on amazon ec2 instance  
 
 
-## Homepage
-Changing background that fades away making space for a new background to show.
-
-![Alt text](images/homepage1.png?raw=true)  
-
-![Alt text](images/homepage2.png?raw=true)  
-
-## Show all Campgrounds
-![Alt text](images/campgrounds.png?raw=true) 
-
-## Selected Campground
-![Alt text](images/selected_campground.png?raw=true)  
-
-## Sign Up
-![Alt text](images/signup.png?raw=true)  
-
-## Log in
-![Alt text](images/login.png?raw=true)  
-
-## Add new campground
-![Alt text](images/addnewcampground.png?raw=true)  
-
-## Add new comment
-![Alt text](images/addnewcomment.png?raw=true)  
 
 
 ## Deployment:
