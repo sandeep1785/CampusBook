@@ -2,6 +2,7 @@
 
 
 ## Description
+The main objective of this project was to create a platform in which studentcan upload their campus pictures so that newbie can see how the campus looks and some unseenplaces where the fresher can go and enjoy their initial time at college campus. It has features likeAuthentication, Authorization, and Functionalities of campus posts and comments. Built using Bootstrap and MEAN stack technologies.
 
 
 
