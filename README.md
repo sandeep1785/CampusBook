@@ -23,17 +23,9 @@ The main objective of this project was to create a platform in which studentcan 
 - **REST** - REST (REpresentational State Transfer) is an architectural style for developing web services  
 - **MongoDB** - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments  
 - **PassportJS** - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application  
-- **Data Associations** - associating user data with the respective campgrounds and comments using reference method  
-- **Heroku** - cloud platform as a service used as a web application deployment model  
-- **AWS** - mongodb is hosted on amazon ec2 instance  
+- **Data Associations** - associating user data with the respective campgrounds and comments using reference method   
 
 
-
-
-## Deployment:
-
-- In the app.js use - > mongoose.connect('mongodb://localhost/yelp_camp'); (if mongodb is running on localhost).  
-- I have used -> mongoose.connect(process.env.DATABASEURL); and have set DATABASEURL as environment variable in my heroku to maintain security.
 
 
 
